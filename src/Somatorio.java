@@ -12,5 +12,6 @@ public class Somatorio {
             map.put(nums[i], i);
         }
         throw new IllegalArgumentException("Não há soluções");
+        // commit
     }
 }

@@ -20,5 +20,6 @@ public class Validacao {
             }
         }
         return stack.isEmpty();
+        // commit
     }
 }
